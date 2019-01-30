@@ -3,6 +3,10 @@
     stroke-width: 1px;
 }
 
+.uk {
+    fill: none;
+}
+
 /* Polygons */
 .subunit.SCT { fill: #ddc; }
 .subunit.WLS { fill: #cdd; }
