@@ -1,0 +1,352 @@
+[
+    {
+        "lng": -2.80053,
+        "Town": "Aldersey Green",
+        "Population": 91423,
+        "County": "Cheshire",
+        "lat": 53.103
+    },
+    {
+        "lng": -0.52319,
+        "Town": "Alfold",
+        "Population": 105788,
+        "County": "Surrey",
+        "lat": 51.10047
+    },
+    {
+        "lng": -3.36948,
+        "Town": "Abercanaid",
+        "Population": 86521,
+        "County": "Merthyr Tydfil",
+        "lat": 51.72223
+    },
+    {
+        "lng": -0.50863,
+        "Town": "Alfold Crossways",
+        "Population": 68892,
+        "County": "Surrey",
+        "lat": 51.10928
+    },
+    {
+        "lng": -4.46,
+        "Town": "Addington",
+        "Population": 158585,
+        "County": "Cornwall",
+        "lat": 50.4633
+    },
+    {
+        "lng": -4.43292,
+        "Town": "Achnahuaigh",
+        "Population": 113718,
+        "County": "Highland",
+        "lat": 58.54549
+    },
+    {
+        "lng": -3.0669,
+        "Town": "Ainsdale-on-Sea",
+        "Population": 48468,
+        "County": "Merseyside",
+        "lat": 53.6043
+    },
+    {
+        "lng": -3.93374,
+        "Town": "Aberffrwd",
+        "Population": 118513,
+        "County": "Ceredigion",
+        "lat": 52.38869
+    },
+    {
+        "lng": -3.03591,
+        "Town": "Adsborough",
+        "Population": 142429,
+        "County": "Somerset",
+        "lat": 51.06024
+    },
+    {
+        "lng": -4.67969,
+        "Town": "Albro Castle",
+        "Population": 117359,
+        "County": "Ceredigion",
+        "lat": 52.08635
+    },
+    {
+        "lng": -1.33148,
+        "Town": "Aldwarke",
+        "Population": 90310,
+        "County": "South Yorkshire",
+        "lat": 53.4454
+    },
+    {
+        "lng": -1.51309,
+        "Town": "Afton",
+        "Population": 114029,
+        "County": "Isle of Wight",
+        "lat": 50.67714
+    },
+    {
+        "lng": -3.5958,
+        "Town": "Ae",
+        "Population": 129126,
+        "County": "Dumfries and Galloway",
+        "lat": 55.18932
+    },
+    {
+        "lng": -6.58795,
+        "Town": "Acha",
+        "Population": 105042,
+        "County": "Argyll and Bute",
+        "lat": 56.59761
+    },
+    {
+        "lng": -3.15138,
+        "Town": "Aisholt",
+        "Population": 164241,
+        "County": "Somerset",
+        "lat": 51.11312
+    },
+    {
+        "lng": -3.86771,
+        "Town": "Aberfeldy",
+        "Population": 56956,
+        "County": "Perth and Kinross",
+        "lat": 56.62331
+    },
+    {
+        "lng": -4.25109,
+        "Town": "Achddu",
+        "Population": 62771,
+        "County": "Carmarthenshire",
+        "lat": 51.69066
+    },
+    {
+        "lng": -0.91743,
+        "Town": "Addington",
+        "Population": 37723,
+        "County": "Buckinghamshire",
+        "lat": 51.95001
+    },
+    {
+        "lng": -2.97872,
+        "Town": "Acton",
+        "Population": 158571,
+        "County": "Wrexham",
+        "lat": 53.05672
+    },
+    {
+        "lng": -4.43495,
+        "Town": "Achfrish",
+        "Population": 73992,
+        "County": "Highland",
+        "lat": 58.07824
+    },
+    {
+        "lng": -2.0729,
+        "Town": "Akeld",
+        "Population": 154971,
+        "County": "Northumberland",
+        "lat": 55.55916
+    },
+    {
+        "lng": -3.17467,
+        "Town": "Acharn",
+        "Population": 145424,
+        "County": "Angus",
+        "lat": 56.87436
+    },
+    {
+        "lng": -3.70989,
+        "Town": "Aberangell",
+        "Population": 140549,
+        "County": "Gwynedd",
+        "lat": 52.67985
+    },
+    {
+        "lng": -5.56618,
+        "Town": "Achmore",
+        "Population": 33493,
+        "County": "Highland",
+        "lat": 57.34138
+    },
+    {
+        "lng": -2.37434,
+        "Town": "Alfrick",
+        "Population": 104402,
+        "County": "Worcestershire",
+        "lat": 52.17916
+    },
+    {
+        "lng": -3.25419,
+        "Town": "Abertysswg",
+        "Population": 115837,
+        "County": "Caerphilly",
+        "lat": 51.7415
+    },
+    {
+        "lng": -3.26466,
+        "Town": "Abertridwr",
+        "Population": 100851,
+        "County": "Caerphilly",
+        "lat": 51.59752
+    },
+    {
+        "lng": -6.652,
+        "Town": "Aghadowey",
+        "Population": 137978,
+        "County": "Londonderry",
+        "lat": 55.029
+    },
+    {
+        "lng": -3.31975,
+        "Town": "Abernethy",
+        "Population": 169111,
+        "County": "Perth and Kinross",
+        "lat": 56.33383
+    },
+    {
+        "lng": -2.26203,
+        "Town": "Acton",
+        "Population": 152210,
+        "County": "Staffordshire",
+        "lat": 52.97057
+    },
+    {
+        "lng": -3.70393,
+        "Town": "Achnahannet",
+        "Population": 161261,
+        "County": "Highland",
+        "lat": 57.32648
+    },
+    {
+        "lng": -5.0017,
+        "Town": "Achnacarry",
+        "Population": 88573,
+        "County": "Highland",
+        "lat": 56.94267
+    },
+    {
+        "lng": -6.67942,
+        "Town": "Ă€ird Adhanais",
+        "Population": 121837,
+        "County": "Na h-Eileanan an Iar",
+        "lat": 57.85354
+    },
+    {
+        "lng": 1.30949,
+        "Town": "Acol",
+        "Population": 165193,
+        "County": "Kent",
+        "lat": 51.35978
+    },
+    {
+        "lng": -1.64497,
+        "Town": "Adlestrop",
+        "Population": 144569,
+        "County": "Gloucestershire",
+        "lat": 51.94546
+    },
+    {
+        "lng": -2.60879,
+        "Town": "Acton Bridge",
+        "Population": 154778,
+        "County": "Cheshire",
+        "lat": 53.27493
+    },
+    {
+        "lng": -4.98181,
+        "Town": "Albert Town",
+        "Population": 106113,
+        "County": "Pembrokeshire",
+        "lat": 51.80029
+    },
+    {
+        "lng": -0.56128,
+        "Town": "Abbotswood",
+        "Population": 150759,
+        "County": "Surrey",
+        "lat": 51.25382
+    },
+    {
+        "lng": 1.24454,
+        "Town": "Aldborough",
+        "Population": 143210,
+        "County": "Norfolk",
+        "lat": 52.8636
+    },
+    {
+        "lng": -1.29101,
+        "Town": "Aldwark",
+        "Population": 20475,
+        "County": "North Yorkshire",
+        "lat": 54.06535
+    },
+    {
+        "lng": -2.59858,
+        "Town": "Adlington",
+        "Population": 98444,
+        "County": "Lancashire",
+        "lat": 53.61655
+    },
+    {
+        "lng": -2.37303,
+        "Town": "Accrington",
+        "Population": 43887,
+        "County": "Lancashire",
+        "lat": 53.75228
+    },
+    {
+        "lng": -3.03668,
+        "Town": "Ainsdale",
+        "Population": 160665,
+        "County": "Merseyside",
+        "lat": 53.60456
+    },
+    {
+        "lng": -2.60274,
+        "Town": "Abbotsbury",
+        "Population": 164556,
+        "County": "Dorset",
+        "lat": 50.66761
+    },
+    {
+        "lng": 0.06938,
+        "Town": "Albury End",
+        "Population": 119316,
+        "County": "Hertfordshire",
+        "lat": 51.89184
+    },
+    {
+        "lng": -4.24677,
+        "Town": "Abbotsham",
+        "Population": 75116,
+        "County": "Devon",
+        "lat": 51.01625
+    },
+    {
+        "lng": -1.54139,
+        "Town": "Albany",
+        "Population": 87144,
+        "County": "Tyne and Wear",
+        "lat": 54.91134
+    },
+    {
+        "lng": -3.95959,
+        "Town": "Abergynolwyn",
+        "Population": 72076,
+        "County": "Gwynedd",
+        "lat": 52.64002
+    },
+    {
+        "lng": -3.65886,
+        "Town": "Aberuthven",
+        "Population": 73313,
+        "County": "Perth and Kinross",
+        "lat": 56.32077
+    },
+    {
+        "lng": -2.80282,
+        "Town": "Aiketgate",
+        "Population": 144651,
+        "County": "Cumbria",
+        "lat": 54.8107
+    }
+]
