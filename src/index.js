@@ -84,4 +84,19 @@ d3.json("/assets/uk_topo.json", function (error, uk) {
         .style("text-anchor", function (d) {
             return d.geometry.coordinates[0] > -1 ? "start" : "end";
         });
+
+    // Country Labels
+    svg.selectAll(".subunit-label")
+        .data(topojson.feature(uk, uk.objects.subunits).features)
+        .enter().append("text")
+        .attr("class", function (d) {
+            return "subunit-label " + d.id;
+        })
+        .attr("transform", function (d) {
+            return "translate(" + path.centroid(d) + ")";
+        })
+        .attr("dy", ".35em")
+        .text(function (d) {
+            return d.properties.name;
+        });
 });

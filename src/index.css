@@ -8,20 +8,43 @@
 }
 
 /* Polygons */
-.subunit.SCT { fill: #ddc; }
-.subunit.WLS { fill: #cdd; }
-.subunit.NIR { fill: #cdc; }
-.subunit.ENG { fill: #dcd; }
-.subunit.IRL { display: none; }
+.subunit.SCT {
+    fill: #ddc;
+}
+
+.subunit.WLS {
+    fill: #cdd;
+}
+
+.subunit.NIR {
+    fill: #cdc;
+}
+
+.subunit.ENG {
+    fill: #dcd;
+}
+
+.subunit.IRL {
+    display: none;
+}
 
 /* Boundary */
 .subunit-boundary {
     fill: none;
     stroke: #777;
-    stroke-dasharray: 2,2;
+    stroke-dasharray: 2, 2;
     stroke-linejoin: round;
-  }
-  
-  .subunit-boundary.IRL {
+}
+
+.subunit-boundary.IRL {
     stroke: #aaa;
-  }
+}
+
+/* Country Labels */
+.subunit-label {
+    fill: #777;
+    fill-opacity: .5;
+    font-size: 20px;
+    font-weight: 400;
+    text-anchor: middle;
+}
