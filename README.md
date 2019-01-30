@@ -10,6 +10,7 @@ npm i && npm run start
 ```
 
 # Branches
+- `master` Keep with the lastest code.
 - `step_1` Setup development dependence; basic map shape.
 - `step_2` Refactor; Styling polygons
 - `step_3` Displaying countries and labels.
