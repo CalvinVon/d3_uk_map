@@ -3,6 +3,9 @@ made by d3.js (version 3.0)
 
 # Start server
 ```bash
+git clone https://github.com/CalvinVon/d3_uk_map.git
+cd d3_uk_map
+npm i && npm run start
 npm i && npm run start
 ```
 
